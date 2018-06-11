@@ -1,0 +1,20 @@
+{
+  "key": "spotware-news-widget",
+  "version": "1.0.0",
+  "name": "Company News",
+  "description": "News Spotware site!",
+  "author": "akosarev <akosarev@spotware.com>",
+  "dependencies": {
+    "Hub": ">=2018.1"
+  },
+  "products": {
+    "Hub": ">=2018.1",
+    "Upsource": ">=2018.1",
+    "YouTrack": ">=2018.1"
+  },
+  "view": {
+    "fadeOut": false,
+    "defaultWidth": 1,
+    "defaultHeight": 1
+  }
+}
